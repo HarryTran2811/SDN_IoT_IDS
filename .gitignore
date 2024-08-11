@@ -84,3 +84,5 @@ docker-compose.yml
 .env
 .env.*
 
+# Ignore data files
+data/
