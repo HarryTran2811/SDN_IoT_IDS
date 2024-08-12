@@ -84,5 +84,8 @@ docker-compose.yml
 .env
 .env.*
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
 # Ignore data files
 data/
