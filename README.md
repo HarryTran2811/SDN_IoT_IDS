@@ -1,4 +1,4 @@
-# SDN-Dataset
+# SDN_IoT_IDS
 
 ## Project Description
 
@@ -14,8 +14,8 @@ To set up the environment and run the notebooks, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/SDN-Dataset.git
-    cd SDN-Dataset
+    git clone https://github.com/yourusername/SDN_IoT_IDS.git
+    cd SDN_IoT_IDS
     ```
 
 2. **Create a Virtual Environment**:
@@ -47,9 +47,9 @@ To set up the environment and run the notebooks, follow these steps:
 
 The project directory is structured as follows:
 
-- [`code/`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FGW%2FSDN_IOT%2Fcode%2F%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D ".\SDN_IOT\code\"): Contains the code and Jupyter Notebooks for data analysis and model development.
+- [`code/`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FGW%2FSDN_IOT%2Fcode%2F%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D ".\SDN_IoT_IDS\code\"): Contains the code and Jupyter Notebooks for data analysis and model development.
   - [`notebooks/`](command:_github.copilot.openSymbolFromReferences?%5B%22notebooks%2F%22%2C%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CGW%5C%5CSDN_IOT%5C%5CREADME.md%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FGW%2FSDN_IOT%2FREADME.md%22%2C%22path%22%3A%22%2Fc%3A%2FGW%2FSDN_IOT%2FREADME.md%22%2C%22scheme%22%3A%22file%22%7D%2C%22pos%22%3A%7B%22line%22%3A12%2C%22character%22%3A38%7D%7D%5D%5D "Go to definition"): Contains Jupyter Notebooks used for analysis.
-- [`dataset/`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FGW%2FSDN_IOT%2Fdataset%2F%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D ".\SDN_IOT\dataset\"): Contains the dataset files.
+- [`dataset/`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FGW%2FSDN_IOT%2Fdataset%2F%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D ".\SDN_IoT_IDS\dataset\"): Contains the dataset files. (IF NOT HAVE DATASET DOWNLOAD AT: https://github.com/AlperKaan35/SDN-Dataset)
   - [`SDN_IoT-Dataset/`](command:_github.copilot.openSymbolFromReferences?%5B%22SDN_IoT-Dataset%2F%22%2C%5B%7B%22uri%22%3A%7B%22%24mid%22%3A1%2C%22fsPath%22%3A%22c%3A%5C%5CGW%5C%5CSDN_IOT%5C%5CREADME.md%22%2C%22_sep%22%3A1%2C%22external%22%3A%22file%3A%2F%2F%2Fc%253A%2FGW%2FSDN_IOT%2FREADME.md%22%2C%22path%22%3A%22%2Fc%3A%2FGW%2FSDN_IOT%2FREADME.md%22%2C%22scheme%22%3A%22file%22%7D%2C%22pos%22%3A%7B%22line%22%3A8%2C%22character%22%3A60%7D%7D%5D%5D "Go to definition"): Directory containing the IoT dataset.
     - `10-iot/`: Subdirectory with specific dataset files.
 - [`README.md`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FGW%2FSDN_IOT%2FREADME.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D ".\SDN_IOT\README.md"): Project documentation.
