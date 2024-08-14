@@ -90,4 +90,3 @@ docker-compose.yml
 # Ignore data files and unncompleted models
 data/
 lightweight_hybrid_sdn_model.py
-ensemble_model.py
