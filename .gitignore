@@ -87,5 +87,7 @@ docker-compose.yml
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore data files
+# Ignore data files and unncompleted models
 data/
+lightweight_hybrid_sdn_model.py
+ensemble_model.py
