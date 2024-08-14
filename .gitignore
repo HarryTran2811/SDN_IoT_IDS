@@ -88,5 +88,5 @@ docker-compose.yml
 .ipynb_checkpoints/
 
 # Ignore data files and unncompleted models
-data/
+dataset/
 lightweight_hybrid_sdn_model.py
