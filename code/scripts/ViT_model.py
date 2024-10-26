@@ -6,9 +6,9 @@ from datasets import load_dataset
 
 
 class ViTModelTrainer:
-    def __init__(self, num_labels=10, image_size=224, patch_size=16, hidden_size=768,
+    def __init__(self, num_labels=8, image_size=224, patch_size=16, hidden_size=768,
                  num_attention_heads=12, num_hidden_layers=12, intermediate_size=3072,
-                 classifier_dropout=0.1, learning_rate=3e-5, weight_decay=0.01,
+                 classifier_dropout=0.1, learning_rate=0.001, weight_decay=0.01,
                  batch_size=32, num_epochs=10):
         self.config = ViTConfig(
             image_size=image_size,
